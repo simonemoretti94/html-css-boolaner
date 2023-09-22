@@ -51,6 +51,10 @@
     border-collapse: collapse;
 }
 
+.th1 {
+    width: 50%;
+}
+
 .tr1 {
     background-color: rgb(49, 148, 148);
     text-align: left;
@@ -80,4 +84,38 @@
     font-weight: 900;
     color: var(--paragraph-primary)
     
+}
+
+#monitor {
+    background-image: url('/img/monitor.jpg');
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    margin-top: 5px;
+    padding: 10px 0 0 10px;
+}
+
+.p5 {
+    color: var(--paragraph-primary);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: 900;
+
+
+}
+
+#graph {
+    background-image: url('/img/graph.jpg');
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 200px;
+    margin-top: 5px;
+    padding: 5px 0px 0px 10px;
+}
+
+.p6 {
+    color: var(--paragraph-primary);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: 900;
 }
