@@ -1,3 +1,7 @@
+:root {
+    --paragraph-primary: rgb(185, 184, 184);
+}
+
 #header {
     background-color: aqua;
     background-image: url('/img/pattern.png');
@@ -64,4 +68,16 @@
 .tr3 {
     color: black;
     font-weight: 100;
+}
+
+.p3 {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.p4 {
+    font-size: xx-large;
+    font-weight: 900;
+    color: var(--paragraph-primary)
+    
 }
