@@ -1,0 +1,67 @@
+#header {
+    background-color: aqua;
+    background-image: url('/img/pattern.png');
+    height: 11rem;
+}
+
+.logo {
+    height: 85px;
+    width: 350px;
+    padding-top: 5rem;
+}
+
+.h1-1 {
+
+    font-weight: 900;
+    font-size:  50px;
+    margin: 10px;
+}
+
+.p1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 400;
+    margin: 10px;
+}
+
+.tim {
+    width: 625px;
+    height: 467px;
+}
+
+.p2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: 400;
+    color: black;   
+}
+
+.ul1 {
+    padding: 10px;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    margin-left: 10px;
+}
+
+#chart {
+    border-collapse: collapse;
+}
+
+.tr1 {
+    background-color: rgb(49, 148, 148);
+    text-align: left;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+
+.tr2-4 {
+    background-color: aquamarine;
+    color: black;
+    font-weight: 100;
+}
+
+.tr3 {
+    color: black;
+    font-weight: 100;
+}
